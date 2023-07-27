@@ -1,0 +1,12 @@
+{
+  "name": "auto",
+  "version": "1.0.0",
+  "description": "automatizacao do Attalho",
+  "main": "index.js",
+  "repository": "https://github.com/GUIDEV19/testes-automatizados-attalho.git",
+  "author": "Ricael Lopes",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.17.1"
+  }
+}
